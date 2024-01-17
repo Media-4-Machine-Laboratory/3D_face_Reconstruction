@@ -1,0 +1,17 @@
+opencv-python==4.8.0.76
+cmake==3.27.9
+dlib==19.24.2
+numpy==1.23.5
+pyyaml==6.0.1
+glob2
+tqdm
+matplotlib
+scipy==1.11.4
+torch==2.1.0
+torchvision==0.16.0
+imageio==2.31.6
+imageio-ffmpeg==0.4.9
+mrcfile
+ninja
+plyfile
+trimesh
