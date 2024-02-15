@@ -10,3 +10,4 @@ _NVidia Jetson을 이용한 얼굴특성분석 및 아바타 제작 기술 개�
   - Face Landmark 예측 기반 3D 모델 매칭 SW
 
 **workflow**
+![](assets/스크린샷 2024-02-15 오후 6.06.31)
