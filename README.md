@@ -11,5 +11,5 @@ _NVidia Jetson을 이용한 얼굴특성분석 및 아바타 제작 기술 개�
 
 **workflow**  
 
-![asset](./assets/스크린샷 2024-02-15 오후 6.06.31.png)  
+<img src="./assets/스크린샷 2024-02-15 오후 6.06.31.png">
 
