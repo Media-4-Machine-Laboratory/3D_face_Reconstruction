@@ -14,7 +14,7 @@ _NVidia Jetson을 이용한 얼굴특성분석 및 아바타 제작 기술 개�
   - Face Landmark Prediction-Based 3D Model Matching SW
  
 <br>
-<h2>workflow</h2>
+<h2>Workflow</h2>
 
 <img src="./assets/workflow.png"><br>
 
@@ -27,6 +27,6 @@ The goal of this work is to generate a 3D avatar model using a single 2D image.
 <h2>Demo</h2>
 <img width="729" alt="스크린샷 2024-02-15 오후 6 22 21" src="https://github.com/Media-4-Machine-Laboratory/3D_face_Reconstruction/assets/126739106/3f3998c3-604d-4dbb-9ff0-dc1e0b1b84d5"><br>
 
-**Result**
+<h2>Result</h2>
 - Similar shapes and structures for the entire face of object files created by MediaPipe and PanoHead.
 - Verify that each object file is placed like 3D Avatar through a script on the Blender.
