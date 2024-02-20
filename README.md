@@ -1,7 +1,6 @@
-# 3D_face_Reconstruction
+#NVidia Jetson을 이용한 얼굴특성분석 및 아바타 제작 기술 개발
 
 **Development of Face Characteristics Analysis and Avatar Generation Technology by NVidia Jetson** <br>
-_NVidia Jetson을 이용한 얼굴특성분석 및 아바타 제작 기술 개발_
 ***
 
 <h2>Our Model</h2>
