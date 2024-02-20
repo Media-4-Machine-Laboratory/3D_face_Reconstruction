@@ -1,7 +1,7 @@
 # NVidia Jetson을 이용한 얼굴특성분석 및 아바타 제작 기술 개발
 
-**Development of Face Characteristics Analysis and Avatar Generation Technology by NVidia Jetson** <br>
-본 프로젝트는 2차원 단일 이미지에서 생성형 인공지능 기술을 이용하여 3차원 아바타 생성 과정 간소화 및 표준화를 통해 기존 기술의 한계점을 개선한다.
+**Development of Face Characteristics Analysis and Avatar Generation Technology by NVidia Jetson** <br><br>
+_This project improves the limitations of existing technologies by simplifying and standardizing the process of creating 3D avatars using generative artificial intelligence technology from a single 2D image._
 ***
 
 <h2>Our Model</h2>
