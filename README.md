@@ -1,4 +1,4 @@
-# Nvidia Jetson을 이용한 얼굴특성분석 및 아바타 제작 기술 개발
+# 동아대학교 산학협력 프로젝트: Nvidia Jetson을 이용한 얼굴특성분석 및 아바타 제작 기술 개발
 
 **Development of Face Characteristics Analysis and Avatar Generation Technology by Nvidia Jetson** <br><br>
 _This project improves the limitations of existing technologies by simplifying and standardizing the process of creating 3D avatars using generative artificial intelligence technology from a single 2D image._
