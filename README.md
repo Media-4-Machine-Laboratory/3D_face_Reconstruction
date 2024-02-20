@@ -29,5 +29,5 @@ The goal of this work is to generate a 3D avatar model using a single 2D image. 
 <img width="729" alt="스크린샷 2024-02-15 오후 6 22 21" src="https://github.com/Media-4-Machine-Laboratory/3D_face_Reconstruction/assets/126739106/3f3998c3-604d-4dbb-9ff0-dc1e0b1b84d5"><br>
 
 <h2>Result</h2>
-- Similar shapes and structures for the entire face of object files created by MediaPipe and PanoHead.
+- Similar shapes and structures for the entire face of object files created by MediaPipe and PanoHead.<br>
 - Verify that each object file is placed like 3D Avatar through a script on the Blender.
