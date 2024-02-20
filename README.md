@@ -14,11 +14,9 @@ _This project improves the limitations of existing technologies by simplifying a
   - Face Landmark Prediction-Based 3D Model Matching SW
  
 <br>
-<h2>Workflow</h2>
-
+<h2>Overview</h2>
 <img src="./assets/workflow.png"><br>
 
-<h2>Overview</h2>
 The goal of this work is to generate a 3D avatar model using a single 2D image.  <br><br>
 1) Data augmentation is performed using the original image as an image that can represent the entire head including the face through the PanoHead. (512*512(px)*60fps * 4s)  <br><br>
 2) The first frame of the image generated in the above process (which corresponds to the front face image) is extracted, the feature points of the face are extracted through the MediaPipe library, and this is reconstructed in three dimensions. In this case, the image of the first frame becomes the Texture of the reconstructed 3D avatar model.  <br><br>
